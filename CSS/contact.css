@@ -1,0 +1,30 @@
+body {
+    background-color: #CFFFFE;
+}
+
+#main-body{
+    padding: 7%;
+    text-align: center;
+}
+.header-line{
+    text-align: center;
+    font-weight: 700;
+    font-size: 200%;
+}
+.count1{
+    padding-top: 5%;
+}
+.data{
+    padding: 5%;
+    padding-top: 7%;
+}
+.icon{
+    color:#25D366;
+}
+.icon:hover{
+    color: #075E54 ;
+}
+.col-lg-4{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}

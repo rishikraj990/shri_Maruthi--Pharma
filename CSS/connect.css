@@ -1,0 +1,48 @@
+body {
+background-color: #CFFFFE;
+}
+
+.header-line{
+  text-align: center;
+  font-weight: 700;
+  font-size: 200%;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+.fields-fill{
+  text-decoration:none ;
+}
+.main-cont{
+  margin-left: 14%;
+  text-align: center;
+  line-height: 1.5;
+}
+.main-row{
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+.column-abt{
+  text-align: left;
+  padding-left: 10%;
+}
+.input-column{
+  text-align: left;
+}
+.fields{
+  width: 100%;
+}
+.mess-row{
+  padding-top: 4%;
+  padding-bottom: 1%;
+}
+.mess-column{
+  text-align: center;
+}
+.mess-name{
+  text-align: center;
+  color: gray;
+}
+.button-row{
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
